@@ -1,10 +1,10 @@
 # The Dev Workflow
 
 ## To Do
-- [ √ ] Curriculum overview
-- [ ] Example problem workflow
-- [ ] Problem solving tips
-- [ ] Review git workflow
+[ √ ] Curriculum overview
+[ √ ] [Example problem workflow](index.js)
+[ √ ] Problem solving tips
+[ √ ] Review git workflow
 
 ### Curriculum Overview
 - Module 1
@@ -39,11 +39,27 @@
   - **Individual Project**: Jungle (Rails; not evaluated)
   - Final Project
 
+### Problem Solving Tips
+- Documentation
+- Google
+- Stackoverflow
+
+### Git workflow
+- git init
+- git commit -m "Message indicating what you are commiting"
+- Create repository in github with same name
+- Copy SSH link 
+- git remote add
+- git branch -M main
+- git push -u origin main
+
 ### Terminal Commands 
 - pwd - print working directory 
 - ls - look source - displays what is in current directory
 - cd - change directory
 - mkdir - make directory
 - code . - opens vs code
+- clear - clears terminal of commands entered previously (cleans up interface)
 - -l -flag - list
 - -a -flag - all - flags can be combined e.g. -la
+- -v -flag - version
