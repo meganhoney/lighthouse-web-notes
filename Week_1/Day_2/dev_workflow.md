@@ -1,10 +1,10 @@
 # The Dev Workflow
 
 ## Agenda
-[x] Curriculum overview  
-[x] [Example problem workflow](index.js)  
-[x] Problem solving tips  
-[x] Review git workflow  
+- [x] Curriculum overview  
+- [x] [Example problem workflow](index.js)  
+- [x] Problem solving tips  
+- [x] Review git workflow  
 
 ### Curriculum Overview
 - Module 1
