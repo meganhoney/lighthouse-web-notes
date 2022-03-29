@@ -1,6 +1,6 @@
 # Objects in Javascript
 
 Agenda:  
-[x] Introduction  
-[] Javascript Primitives and Data-Types  
-[] JavaScript Object Fundamentals
+[X] Introduction  
+[X] Javascript Primitives and Data-Types  
+[X] JavaScript Object Fundamentals
