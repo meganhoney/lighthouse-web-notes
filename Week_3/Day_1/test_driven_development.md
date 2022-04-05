@@ -2,7 +2,7 @@
 
 ## Agenda
 - [x] Manual vs Automated Testing
-- [] Test-Driven Development cycle
+- [x] Test-Driven Development cycle
 - [] Assertions (`console` and NodeJS `assert`)
 - [] Modules in NodeJS; Getting Files to Share
 - [] NPM and Using External Libraries
