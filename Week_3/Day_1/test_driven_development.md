@@ -1,5 +1,6 @@
 # Test-Driven Development with Mocha and Chai
 
+## Agenda
 - [x] Manual vs Automated Testing
 - [] Test-Driven Development cycle
 - [] Assertions (`console` and NodeJS `assert`)
@@ -9,7 +10,7 @@
 - [] Ignoring Files and/or Folders with `.gitignore`
 - [] Chai Assertion Library
 
-## Manual vs Automates
+## Manual vs Automatic
 
 ### Manual Testing
 * Easier to set up and use
@@ -24,3 +25,9 @@
 * Easily repeatable 
 * Result accuracy (no human error)
 * Encourages modularity (easier to use portions of code elsewhere)
+
+## Test-Driven Development
+An approach to software projects and development that places priority on writing test cases before code.
+1. Write a test (or tests) that confirms the feature is working correctly
+2. Write the code for the feature, ensuring it passes the test
+3. Refactoring (cleaning up code, removing extras, comments, logs, etc.)
