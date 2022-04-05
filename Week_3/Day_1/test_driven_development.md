@@ -31,3 +31,13 @@ An approach to software projects and development that places priority on writing
 1. Write a test (or tests) that confirms the feature is working correctly
 2. Write the code for the feature, ensuring it passes the test
 3. Refactoring (cleaning up code, removing extras, comments, logs, etc.)
+
+## Improving Code Quality
+1. Refactoring
+  * Removing extraneous comments
+  * Removing extra logging
+  * Consistent tabs/whitespace
+  * Lots of small changes are possible to make code a little bit faster and easier to read
+2. Consider object-oriented approach for modularity, or breaking repeated tasks into functions
+3. Testing (manual or automated)
+4. Error handling
