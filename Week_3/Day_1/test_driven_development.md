@@ -5,10 +5,10 @@
 - [x] Test-Driven Development cycle
 - [x] Assertions (`console` and NodeJS `assert`)
 - [x] Modules in NodeJS; Getting Files to Share
-- [] NPM and Using External Libraries
-- [] Mocha Test Runner
-- [] Ignoring Files and/or Folders with `.gitignore`
-- [] Chai Assertion Library
+- [x] NPM and Using External Libraries
+- [x] Mocha Test Runner
+- [x] Ignoring Files and/or Folders with `.gitignore`
+- [x] Chai Assertion Library
 
 ## Manual vs Automatic
 
@@ -41,3 +41,16 @@ An approach to software projects and development that places priority on writing
 2. Consider object-oriented approach for modularity, or breaking repeated tasks into functions
 3. Testing (manual or automated)
 4. Error handling
+
+## NPM
+* `package.json`
+  - automated command line interface for creating this file
+  - javascript object detailing all packages necessary
+  - `npm init` creates `package.json`
+* `npm install package-name`
+  - installs in present working directory
+* `npm install --save-dev package-name`
+  - development cycle only package
+  - e.g. tests (end user doesn't need the tests)
+* `npm install --global package-name`
+  - global flag (take caution)
