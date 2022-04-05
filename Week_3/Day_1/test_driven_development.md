@@ -3,8 +3,8 @@
 ## Agenda
 - [x] Manual vs Automated Testing
 - [x] Test-Driven Development cycle
-- [] Assertions (`console` and NodeJS `assert`)
-- [] Modules in NodeJS; Getting Files to Share
+- [x] Assertions (`console` and NodeJS `assert`)
+- [x] Modules in NodeJS; Getting Files to Share
 - [] NPM and Using External Libraries
 - [] Mocha Test Runner
 - [] Ignoring Files and/or Folders with `.gitignore`
