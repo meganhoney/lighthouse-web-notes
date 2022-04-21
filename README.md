@@ -19,3 +19,4 @@ This repository contains all of the notes taken by [Megan](https://github.com/me
   * Day 2 - PROGRAMMING TEST 
 * [Week 5](/Week_5)
   * [Day 1](/Week_5/Day_1)
+  * [Day 2](/Week_5/Day_2/)
