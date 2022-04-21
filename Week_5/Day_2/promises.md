@@ -3,8 +3,8 @@
 ## Agenda
 - [x] Why Promises - Callback hell
 - [x] Introduction to promises
-- [] Creating our own promises
-- [] Simple examples
+- [x] Creating our own promises
+- [x] Simple examples
 
 ### Callback hell
 ```javascript

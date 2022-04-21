@@ -29,5 +29,23 @@ const getRandomNumberPromise = () => {
 
 // to access promise return value, use .then() syntax
 getRandomNumberPromise()
-.then(randomNumber => console.log(randomNumber))
+.then(randomNumber => randomNumber * 2)
+// next .then uses previous value that was returned
+.then(randomNumberTimes2 => console.log(randomNumberTimes2))
+// if we don't need a value, no input
+.then(() => console.log('All done!'))
 .catch(error => console.log(error));
+
+
+// we can also access returned value of promise using
+// async await
+const getRandomNumberPromiseAsyncAwait = async() => {
+  try {
+    const randomNumber = await getRandomNumberPromise();
+    console.log(randomNumber);
+  } catch (err) {
+    console.log(err);
+  }
+};
+
+getRandomNumberPromiseAsyncAwait();
