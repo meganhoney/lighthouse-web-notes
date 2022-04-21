@@ -1,10 +1,10 @@
 # Networking with TCP and HTTP
 
 ## Agenda
-- [] Networking and Protocols
-- [] TCP
-- [] HTTP Fundamentals
-- [] TCP Demo via NodeJS
+- [x] Networking and Protocols
+- [x] TCP
+- [x] HTTP Fundamentals
+- [x] TCP Demo via NodeJS
 
 
 ## HTTP Request Essentials

@@ -1,8 +1,8 @@
 # Promises
 
 ## Agenda
-- [] Why Promises - Callback hell
-- [] Introduction to promises
+- [x] Why Promises - Callback hell
+- [x] Introduction to promises
 - [] Creating our own promises
 - [] Simple examples
 
