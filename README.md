@@ -20,3 +20,6 @@ This repository contains all of the notes taken by [Megan](https://github.com/me
 * [Week 5](/Week_5)
   * [Day 1 - Networking with TCP & HTTP](/Week_5/Day_1)
   * [Day 2 - Promises](/Week_5/Day_2/)
+* [Week 6](/Week_6)
+  * [Day 1 - Web Servers](/Week_6/Day_1)
+  * [Day 2 - ](/Week_6/Day_2)
