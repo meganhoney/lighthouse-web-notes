@@ -4,9 +4,9 @@
 - [X] What is a client?
 - [X] What is a server?
 - [X] Making Requests
-- [ ] Creating your own Server-side HTTP Application in NodeJS (Node JS' `http` Module)
-- [ ] Using Express
-- [ ] Middleware
+- [X] Creating your own Server-side HTTP Application in NodeJS (Node JS' `http` Module)
+- [X] Using Express
+- [X] Middleware
 
 ## TCP Review
 
@@ -67,3 +67,9 @@ Different resources/locations
 `example.com/users`, `youtube.com?v=skdfjld3849`
 
 `localhost:8080/`
+
+## Middleware
+
+Refers to way of adding code that runs after a server has received the request, but before it sends a response.
+Often used for things like:
+* User authentication (admin)
