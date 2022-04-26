@@ -59,3 +59,11 @@ We'll end up using something like...
 2. Apache / Application Server
 3. PostgreSQL
 4. Node.js / Ruby
+
+## Routes
+
+Different resources/locations
+
+`example.com/users`, `youtube.com?v=skdfjld3849`
+
+`localhost:8080/`
