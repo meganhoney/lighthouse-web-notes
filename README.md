@@ -22,4 +22,4 @@ This repository contains all of the notes taken by [Megan](https://github.com/me
   * [Day 2 - Promises](/Week_5/Day_2/)
 * [Week 6](/Week_6)
   * [Day 1 - Web Servers](/Week_6/Day_1)
-  * [Day 2 - ](/Week_6/Day_2)
+  * [Day 2 - CRUD with Express on NodeJS](/Week_6/Day_2)
