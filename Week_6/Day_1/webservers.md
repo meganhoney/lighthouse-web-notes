@@ -73,3 +73,8 @@ Different resources/locations
 Refers to way of adding code that runs after a server has received the request, but before it sends a response.
 Often used for things like:
 * User authentication (admin)
+
+## MVC
+* Model: Represents data in the program
+* View: Visual component of the app (output)
+* Controller: Logic in the app; bridges gap between model and view (gets data and sends it to output)
