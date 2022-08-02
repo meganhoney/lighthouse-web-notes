@@ -15,7 +15,7 @@ This repository contains all of the notes taken by [Megan](https://github.com/me
   * [Day 1 - TDD with Mocha & Chai](/Week_3/Day_1)
   * Day 2 - MOCK PROGRAMMING TEST
 * [Week 4](/Week_4)
-  * [Day 1 - Aynchronous Control Flow](/Week_4/Day_1)
+  * [Day 1 - Asynchronous Control Flow](/Week_4/Day_1)
   * Day 2 - PROGRAMMING TEST 
 * [Week 5](/Week_5)
   * [Day 1 - Networking with TCP & HTTP](/Week_5/Day_1)
