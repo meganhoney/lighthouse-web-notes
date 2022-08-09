@@ -27,8 +27,8 @@
 
 ## Client-Server Model
   * Two ends to our communication:
-    * Client
-    * Server
+    * Client (ASKS/REQUESTS)
+    * Server (LISTENS)
 
 ## Internet Protocol
 
