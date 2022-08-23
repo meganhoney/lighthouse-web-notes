@@ -23,3 +23,5 @@ This repository contains all of the notes taken by [Megan](https://github.com/me
 * [Week 6](/Week_6)
   * [Day 1 - Web Servers](/Week_6/Day_1)
   * [Day 2 - CRUD with Express on NodeJS](/Week_6/Day_2)
+* [Week 7](/Week_7/)
+  * [Day 1 - HTTP Cookies & User Authentication](/Week_7/Day_1/)
